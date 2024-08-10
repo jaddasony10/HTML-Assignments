@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment5</title>
+  </head>
+  <style>
+    body{
+        margin: 20px;
+        padding: 15px;
+    }
+  </style>
+  <body>
+    <h3>Top 5 Favorite Movies: </h3>
+    <ol type="1">
+      <li><b>K.G.F: Chapter 2</b></li>
+      <ul>
+        Year: 2022 <br>
+        Main Actor: Yash<br>
+        Description: The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall.
+      </ul>
+
+      <li><b>Major</b></li>
+      <ul>
+        Year: 2022 <br>
+        Main Actor: Adivi Sesh <br>
+        Description: Based on the life of Major Sandeep Unnikrishnan, who was martyred in action during the November 2008 Mumbai attacks.
+      </ul>
+
+      <li><b>Kalki 2898 AD</b></li>
+      <ul>
+        Year: 2024 <br>
+        Main Actor: Prahas <br>
+        Description: Inspired by Hindu scriptures, it is the first installment in a planned Kalki Cinematic Universe. Set in a post-apocalyptic world in the year 2898 AD, the film follows a select group who are on a mission to save lab subject SUM-80's unborn child, Kalki.
+      </ul>
+
+      <li><b>12th Fail</b></li>
+      <ul>
+        Year: 2023 <br>
+        Main Actor: Vikrant Massey <br>
+        Description: The film is the true story of IPS officer Manoj Kumar Sharma hailing from a small town in Chambal -- who fearlessly embraced the idea of restarting his academic journey and reclaiming his destiny at a place where millions of students attempt for the world's toughest competitive exam: UPSC. Content collapsed.
+      </ul>
+
+      <li><b>Baahubali 2: The Conclusion</b></li>
+      <ul>
+        Year: 2017 <br>
+        Main Actor: Prabhas <br>
+        Description: Serving as both a sequel and a prequel to Baahubali: The Beginning, the film is set in medieval India and centers on the rivalry between siblings Amarendra Baahubali and Bhallaladeva. Bhallaladeva conspires against Amarendra, leading to his death at the hands of Kattappa.
+      </ul>
+    </ol>
+  </body>
+</html>
