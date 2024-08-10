@@ -10,6 +10,7 @@
         margin: 20px;
         padding: 15px;
     }
+
   </style>
   <body>
     <h3>Top 5 Favorite Movies: </h3>
