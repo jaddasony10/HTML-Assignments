@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>X_VICTO GAMING</title>
+    <style>
+        body {
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: rgb(127, 240, 255);
+        }
+        header, footer {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav p , a{
+            background-color: rgb(41, 39, 39);
+            margin: 0;
+            padding: 10px ;
+            color: white;
+            text-decoration: none;
+            justify-content: space-between;
+        }
+        nav a:hover{
+            background-color: rgba(45, 40, 40, 0.1);
+            border-radius: 5px;
+            margin: 0;
+            padding: 15px;
+        }
+        nav ul{
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li{
+            display: flex;
+            margin: 0 10px;
+        }
+        nav ul li a{
+            color: white;
+            text-decoration: none;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section, aside, article {
+            margin: 20px, 0;
+        }
+        table{
+            width: 50%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #060606;
+        }
+        th td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+        form label, form input, form textarea, form button {
+            display: block;
+            margin: 10px 0;
+        }
+        iframe {
+            width: 100%;
+            height: 400px;
+            border: none;
+        }
+        header img{
+            padding: 0;
+        }
+        section img{
+            display: flex;
+            border-radius: 10px;
+        }
+        footer nav ul li{
+            text-align: center;
+        }
+        aside {
+            width: 20%;
+            padding-right: 0px;
+            margin-right: 0px;
+            float: top;
+            background-color: rgb(34, 31, 31);
+            color: white;
+        }
+        footer ul{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <p>
+            <a href="#home">Home</a>
+            <a href="#about">About us</a>
+            <a href="#schedule">Schedule</a>
+            <a href="#contact">Contact</a>
+        </p>
+    </nav>
+    <header>
+        <img src="Screenshot 2024-07-28 at 9.54.43 PM.png" alt="Gym-image" width="200" height="100">
+        <h1>X-VICTO GAMING</h1>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Welcome to X-VICTO GAMING,</h2>
+            <p>Your journey to mastering <b>Free Fire</b> starts here! Join our community and get access to top-notch gaming gear, experienced players, and a variety of strategies that suit your gameplay style. Whether you’re aiming for better aim, tactics, or just want to climb the ranks, we’ve got everything you need to reach your goals. </p>
+            <img src="https://yt3.googleusercontent.com/8S1XnyODDvw7Cax8IagYBGZa5BBB9zi6B168cQyrCz0Y8LAcrOj_x9wQGQp7V4TADIIG7QyMDw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Gym-image" width="800" height="200">
+        </section>
+        <article>
+        <section id="about">
+            <h2>About Us:</h2>
+            <p>Your journey to mastering Free Fire starts here! Join our community and get access to top-notch gaming gear, experienced players, and a variety of strategies that suit your gameplay style. Whether you’re aiming for better aim, tactics, or just want to climb the ranks, we’ve got everything you need to reach your goals.</p>
+            <ul>
+                <li>Welcome to X-Victo Gaming, the ultimate hub for all things Free Fire! We are a passionate community of gamers dedicated to bringing you the best in gameplay tips, strategies, and entertainment.</li>
+                <li>Our channel is all about helping players of all levels improve their skills, enjoy the game, and connect with other Free Fire enthusiasts.</li>
+                <li>At X-Victo Gaming, we pride ourselves on delivering high-quality content, from in-depth tutorials and live streams to exciting challenge videos and team battles.</li>
+                <li>Our experienced team of gamers and content creators is committed to providing you with the latest updates, tips, and tricks to help you dominate the battlefield.</li>
+                <li>Join us on this epic journey and become a part of the X-Victo family. Whether you're a seasoned player or just starting out, there’s something here for everyone. Let’s conquer the game together!</li>
+            </ul>
+        </section>
+    </article>
+        <section id="schedule">
+            <h2>Class Schedule</h2>
+            <table>
+                <h3><caption>Weekly Live Streaming</caption></h3>
+                <tr>
+                    <th>Day</th>
+                    <th>Mode</th>
+                    <th>Time</th>
+                    <th>Instructor</th>
+                </tr>
+                <tr>
+                    <td>Monday</td>
+                    <td>One Tap</td>
+                    <td>6:00 AM - 7:00 AM</td>
+                    <td>(x-victo)</td>
+                </tr>
+                <tr>
+                    <td>Tuesday</td>
+                    <td>BR Ranked</td>
+                    <td>6:00 PM - 7:00 PM</td>
+                    <td>(x-victo)</td>
+                </tr>
+                <tr>
+                    <td>Wednesday</td>
+                    <td>CS Ranked</td>
+                    <td>5:00 PM - 6:00 PM</td>
+                    <td>(x-victo)</td>
+                </tr>
+                <tr>
+                    <td>Thursday</td>
+                    <td>Room card</td>
+                    <td>5:00 PM - 6:00 PM</td>
+                    <td>(x-victo)</td>
+                </tr>
+                <tr>
+                    <td>Friday</td>
+                    <td>Giveaways->(Diamonds,bundle ect)</td>
+                    <td>5:00 PM - 6:00 PM</td>
+                    <td>(x-victo)</td>
+                </tr>
+            </table>
+        </section>
+
+        <section id="contact">
+            <h2>Contact US To Join In Our Guild (Or) To Act As a Channel Moderator</h2>
+            <form action="/submit-form" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" ></textarea>
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+
+        <aside>
+            <h2>Testimonials</h2>
+            <p>“X-Victo Gaming has completely transformed my gameplay! The tips and tricks shared on the channel helped me improve my strategy and aim. I’ve learned so much and feel more confident in every match!” - Alex G.</p>
+        </aside>        
+    </main>
+
+    <footer>
+        <p>&copy; 2024 X-VICTO GAMING! All rights reserved </p>
+        <p>Visit Us: 123 xyz street Chennai</p>
+        <p>Follow us on social Media:</p>
+        <nav>
+            <ul>
+                <li><a href="https://www.youtube.com/results?search_query=x+victo">Youtube</a></li>
+                <li><a href="https://www.instagram.com/x.victo_?igsh=ZXhFiOXpncHp6b3hq">Instagram</a></li>
+            </ul>
+        </nav>
+    </footer>  
+</body>
+</html>
