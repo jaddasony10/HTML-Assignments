@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Self</title>
+    <h1>Jadda Sony</h1>
+    <p>My Self Jadda Sony, I’m a 3rd year Software Engineering student specializing in
+        Artificial Intelligence & Machine Learning..</p>
+    <ul>
+    <b>Hobbies:</b>
+        <li>Coding</li>
+        <li>VolleyBall</li>
+        <li>Playing Games</li>
+    </ul>
+<a>Check out one of my Favorite Coding Website: </a>
+<a href="https://coddy.tech/">Click Here</a>
+</head>
+<body>
+    
+</body>
+</html>
