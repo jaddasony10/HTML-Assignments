@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment8</title>
+  </head>
+  <style>
+    body{
+        margin: 20px;
+        padding: 20px;
+        font-size: 20px;
+    }
+    body button{
+        background-color: rgb(47, 44, 44);
+        color: white;
+    }
+    body button:hover{
+        border-radius: 30px;
+    }
+  </style>
+  <body>
+    <br />
+    <label for="Username">Enter Username:</label>
+    <input type="text" placeholder="UserName"/><br /><br />
+    <h>Select your Gender:</h> <br>
+    <input type="radio" id="Male" name="Gender" />
+    <label for="Male">Male</label><br />
+    <input type="radio" id="Female" name="Gender" />
+    <label for="Female">Female</label><br />
+    <input type="radio" id="Others" name="Gender" />
+    <label for="Others">Other</label><br />
+    <br>
+    <label for="Country">Choose your Country:</label>
+    <select name="Country" id="Country">
+      <option value="India">India</option>
+      <option value="Australia">America</option>
+      <option value="Australia">Dubai</option>
+      <option value="Australia">Russia</option>
+      <option value="Australia">Thailand</option>
+      <option value="Australia">Greenland</option>
+      <option value="Australia">Germany</option>
+      <option value="Australia">Australia</option>
+      <option value="Japan">Japan</option>
+      <option value="South Korean">South Korean</option>
+    </select>
+    <br /> <br>
+    <button type="Submit">Submit</button>
+  </body>
+</html>
