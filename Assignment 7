@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment7</title>
+  </head>
+  <body>
+    <h1>Audio :</h1>
+    <audio controls>
+        <source src="https://www.youtube.com/watch?v=IxDvpoCmAaY" type="audio/mpeg">
+    </audio>
+    <h1>Video :</h1>
+    <video width="640" height="360" controls>
+        <source src="https://www.youtube.com/watch?v=IxDvpoCmAaY" type="video/mp4">
+    </video>
+  </body>
+</html>
